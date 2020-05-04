@@ -68,9 +68,9 @@ const chattenRecords = [
 ];
 console.log("Chatten Records", chattenRecords);
 
-const jumpStartRecords = [
+const jumpStopRecords = [
 	createFunkArtist("Funk", "DreFunkz", "25"),
 	createRapArtist("Rap", "Dusta Grimes", "21"),
 	createRapArtist("Rap", "Loyonce Branis", "27"),
 ];
-console.log("Jump Start Records", jumpStartRecords);
+console.log("Jump Stop Records", jumpStopRecords);
